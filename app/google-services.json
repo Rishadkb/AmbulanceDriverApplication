@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "484798214171",
+    "firebase_url": "https://driver-application-d5ad5.firebaseio.com",
+    "project_id": "driver-application-d5ad5",
+    "storage_bucket": "driver-application-d5ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484798214171:android:0539d0cb5c1e7024",
+        "android_client_info": {
+          "package_name": "com.example.rishadkavad.ambulancedriverapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484798214171-4l2bg79gc0nlqgjsqf650h8b6ad1brci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXr3U6V2AFdVo9TlJNcjOdCc75xjxSYrM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
